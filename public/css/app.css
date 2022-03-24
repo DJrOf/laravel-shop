@@ -11260,3 +11260,7 @@ textarea.form-control-lg {
 ul {
   list-style: none;
 }
+
+.contshow {
+  padding: 2%;
+}
